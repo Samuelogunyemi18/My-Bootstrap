@@ -1,2 +1,2 @@
-# My-Bootstrap
-A simple web structure
+# WEB-DESIGN
+A simple website
